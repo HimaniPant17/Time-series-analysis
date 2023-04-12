@@ -1,5 +1,5 @@
 # Time-series-analysis
-Performed a time series analysis on daily stock prices from 2016-2022 of top performing companies operating in paint &amp; varnish industry using:
+Performed a time series analysis on daily stock prices from 2016-2022 of top performing companies operating in Media & Entertainment sector using:
 
 1. Simple Moving Average (15 & 20 day)
 2. Weighted Moving Average (15 & 20 day)
